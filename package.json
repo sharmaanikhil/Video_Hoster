@@ -1,5 +1,5 @@
 {
-  "name": "chai-backend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "a backend at chai aur code channel - youtube",
   "type": "module",
@@ -12,7 +12,7 @@
     "backend",
     "chai"
   ],
-  "author": "Hitesh Choudhary",
+  "author": "Nikhil Sharma",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1",
